@@ -14,9 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AppSecurityData</name>
 	<description>Test Application Spring Security + Spring Data</description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	<!-- <properties> <java.version>11</java.version> </properties> -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
